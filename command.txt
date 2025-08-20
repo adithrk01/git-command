@@ -24,3 +24,17 @@ command for adding remote reporstery
 
 command for addikng changes in local reporsteryto remote reporstery
     >git push -u remote_name branch_name
+
+command for listing all branches
+    >git branch
+
+commit history
+    >git log
+
+command for listing remote
+    >git remote -v
+
+flags
+    A-staged
+    U-untracked
+    M-modified
