@@ -23,5 +23,4 @@ command for adding remote reporstery
     >git remote add name remote_path
 
 command for addikng changes in local reporsteryto remote reporstery
-    >git pish -u remote_name branch_name
-    
+    >git push -u remote_name branch_name
